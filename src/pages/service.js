@@ -2,7 +2,7 @@ import React from 'react'
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
 import PwaImg from '../assets/img-blog-pwa-jul-21-mitrais-1.jpg'
-import { Link } from 'react-router';
+import { Link } from 'react-router-dom';
 
 const Service = () => {
   return (
