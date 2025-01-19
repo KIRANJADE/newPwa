@@ -1,6 +1,24 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "id": "newpwa",
+  "lang": "en",
+  "name": "newpwa",
+  "scope": "https://membersapp.cnrcoffeeclub.com/",
+  "scope_extensions": [
+    {
+      "origin": "https://membersapp.cnrcoffeeclub.com/",
+      "path": "/"
+    }
+  ],
+  "dir": "ltr",
+  "display": "standalone",
+  "short_name": "newpwa",
+  "start_url": "/?standalone=1",
+  "description": "newpwa",
+  "background_color": "#ffffff",
+  "theme_color": "#242424",
+  "orientation": "portrait",
+  "iarc_rating_id": "e10+",
+  "display_override": ["standalone"],
   "icons": [
     {
       "src": "favicon.ico",
@@ -18,8 +36,5 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "hide-app-url-bar": true
 }

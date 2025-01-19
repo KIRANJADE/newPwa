@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.a3246670.css",
-    "main.js": "/static/js/main.3f180cc9.js",
+    "main.js": "/static/js/main.af880d1f.js",
     "static/js/146.fd9f502d.chunk.js": "/static/js/146.fd9f502d.chunk.js",
     "static/media/img-blog-pwa-jul-21-mitrais-1.jpg": "/static/media/img-blog-pwa-jul-21-mitrais-1.f519e2a4e5a1f5e42bac.jpg",
     "index.html": "/index.html",
     "main.a3246670.css.map": "/static/css/main.a3246670.css.map",
-    "main.3f180cc9.js.map": "/static/js/main.3f180cc9.js.map",
+    "main.af880d1f.js.map": "/static/js/main.af880d1f.js.map",
     "146.fd9f502d.chunk.js.map": "/static/js/146.fd9f502d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a3246670.css",
-    "static/js/main.3f180cc9.js"
+    "static/js/main.af880d1f.js"
   ]
 }
