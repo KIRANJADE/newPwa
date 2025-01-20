@@ -4,8 +4,11 @@
             "delegate_permission/common.handle_all_urls"
         ],
         "target": {
-            "namespace": "web",
-            "site": "https://checknewpwa.netlify.app"
+            "namespace": "android_app",
+            "package_name": "app.netlify.checknewpwa.twa",
+            "sha256_cert_fingerprints": [
+                "2E:6F:C9:DA:6A:DF:FC:05:AE:76:0B:AE:9B:68:27:0C:BC:1D:37:2B:D0:CD:7A:F5:34:6E:D2:08:B5:B9:F1:C7"
+            ]
         }
     }
 ]
